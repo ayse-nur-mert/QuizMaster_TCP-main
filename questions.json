@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "level": 1,
+            "question": "In which year was Python developed?",
+            "options": {
+                "A": "1991",
+                "B": "2000",
+                "C": "1989",
+                "D": "2010"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 1,
+            "question": "Who is the creator of Python?",
+            "options": {
+                "A": "Guido van Rossum",
+                "B": "Dennis Ritchie",
+                "C": "James Gosling",
+                "D": "Bjarne Stroustrup"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 1,
+            "question": "Which symbols are used to create a list in Python?",
+            "options": {
+                "A": "[]",
+                "B": "()",
+                "C": "{}",
+                "D": "<>"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 1,
+            "question": "Which symbol starts a comment line in Python?",
+            "options": {
+                "A": "//",
+                "B": "#",
+                "C": "/*",
+                "D": "--"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 1,
+            "question": "Which function is used to learn the type of a variable in Python?",
+            "options": {
+                "A": "type()",
+                "B": "typeof()",
+                "C": "getType()",
+                "D": "varType()"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 2,
+            "question": "In which year was the TCP/IP protocol standardized?",
+            "options": {
+                "A": "1983",
+                "B": "1990",
+                "C": "1978",
+                "D": "1985"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 2,
+            "question": "Which protocol laid the foundations of the Internet?",
+            "options": {
+                "A": "HTTP",
+                "B": "TCP/IP",
+                "C": "FTP",
+                "D": "SMTP"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 2,
+            "question": "How many layers does TCP/IP have?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "7"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 2,
+            "question": "In which format are IP addresses written?",
+            "options": {
+                "A": "192.168.1.1",
+                "B": "192-168-1-1",
+                "C": "192/168/1/1",
+                "D": "192:168:1:1"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 2,
+            "question": "What does TCP stand for?",
+            "options": {
+                "A": "Transmission Control Protocol",
+                "B": "Transfer Control Protocol",
+                "C": "Transmission Connection Protocol",
+                "D": "Transfer Connection Protocol"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 3,
+            "question": "Which is the largest ocean in the world?",
+            "options": {
+                "A": "Atlantic",
+                "B": "Indian",
+                "C": "Arctic",
+                "D": "Pacific"
+            },
+            "answer": "D"
+        },
+        {
+            "level": 3,
+            "question": "What is the deepest ocean point?",
+            "options": {
+                "A": "Mariana Trench",
+                "B": "Tonga Trench",
+                "C": "Kuril Trench",
+                "D": "Philippine Trench"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 3,
+            "question": "Which is the longest mountain range in the world?",
+            "options": {
+                "A": "Himalayas",
+                "B": "Andes Mountains",
+                "C": "Rocky Mountains",
+                "D": "Atlas Mountains"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 3,
+            "question": "Which is the highest mountain in the world?",
+            "options": {
+                "A": "K2",
+                "B": "Everest",
+                "C": "Kanchenjunga",
+                "D": "Lhotse"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 3,
+            "question": "Which is the largest desert in the world?",
+            "options": {
+                "A": "Gobi",
+                "B": "Sahara",
+                "C": "Antarctica",
+                "D": "Arabian"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 4,
+            "question": "What does Einstein's famous equation E=mc^2 represent?",
+            "options": {
+                "A": "Energy and mass equivalence",
+                "B": "Speed of light and time",
+                "C": "Gravitational force",
+                "D": "Atomic structure"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 4,
+            "question": "What does 'c' represent in the equation E=mc^2?",
+            "options": {
+                "A": "Mass",
+                "B": "Energy",
+                "C": "Speed of Light",
+                "D": "Gravitational Force"
+            },
+            "answer": "C"
+        },
+        {
+            "level": 4,
+            "question": "What is the approximate speed of light in km/second?",
+            "options": {
+                "A": "200,000",
+                "B": "300,000",
+                "C": "400,000",
+                "D": "500,000"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 4,
+            "question": "In which year was Einstein's theory of relativity published?",
+            "options": {
+                "A": "1905",
+                "B": "1915",
+                "C": "1925",
+                "D": "1935"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 4,
+            "question": "In which country was Einstein born?",
+            "options": {
+                "A": "Germany",
+                "B": "Switzerland",
+                "C": "Austria",
+                "D": "France"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 5,
+            "question": "Who is the longest-reigning British monarch?",
+            "options": {
+                "A": "Queen Victoria",
+                "B": "Queen Elizabeth II",
+                "C": "King George III",
+                "D": "Queen Elizabeth I"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 5,
+            "question": "Who is the second longest-reigning monarch in England?",
+            "options": {
+                "A": "King George III",
+                "B": "Queen Victoria",
+                "C": "Queen Elizabeth II",
+                "D": "King Henry VIII"
+            },
+            "answer": "B"
+        },
+        {
+            "level": 5,
+            "question": "Who was the first female Prime Minister of England?",
+            "options": {
+                "A": "Margaret Thatcher",
+                "B": "Theresa May",
+                "C": "Liz Truss",
+                "D": "Angela Merkel"
+            },
+            "answer": "A"
+        },
+        {
+            "level": 5,
+            "question": "What is the capital of England?",
+            "options": {
+                "A": "Manchester",
+                "B": "Liverpool",
+                "C": "London",
+                "D": "Birmingham"
+            },
+            "answer": "C"
+        },
+        {
+            "level": 5,
+            "question": "What is the highest mountain in England?",
+            "options": {
+                "A": "Ben Nevis",
+                "B": "Snowdon",
+                "C": "Scafell Pike",
+                "D": "Helvellyn"
+            },
+            "answer": "A"
+        }
+    ]
+} 
